@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings": [
+    {"name":"sprites","order":1,"path":"folders/sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_block","order":1,"path":"sprites/spr_block/spr_block.yy",},
+    {"name":"spr_beholder","order":2,"path":"sprites/spr_beholder/spr_beholder.yy",},
+  ],
+}
