@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings": [
+    {"name":"rooms","order":1,"path":"folders/rooms.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_bg","order":1,"path":"sprites/spr_bg/spr_bg.yy",},
+  ],
+}

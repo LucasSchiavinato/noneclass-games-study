@@ -1,0 +1,35 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.6",
+  "name": "sprites",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"sprites","folderPath":"folders/sprites.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"rooms","folderPath":"folders/rooms.yy","order":0,},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "MetaData": {
+    "IDEVersion": "2023.1.0.58",
+  },
+  "resources": [
+    {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":0,},
+    {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},"order":0,},
+    {"id":{"name":"spr_beholder","path":"sprites/spr_beholder/spr_beholder.yy",},"order":0,},
+    {"id":{"name":"rms_lv1","path":"rooms/rms_lv1/rms_lv1.yy",},"order":0,},
+    {"id":{"name":"spr_character","path":"sprites/spr_character/spr_character.yy",},"order":0,},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rms_lv1","path":"rooms/rms_lv1/rms_lv1.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
